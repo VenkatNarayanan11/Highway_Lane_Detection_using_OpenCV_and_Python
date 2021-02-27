@@ -26,7 +26,7 @@ The final output video will include four different views:
 3) Region-masked view
 4) Detected left and right lane view
 
-Here is the [video_link](https://www.linkedin.com/posts/venkat-balachandran_opencv-python-computervision-activity-6694674707540705280-X_Tg) for the final output.
+Here is the [video_link](https://www.linkedin.com/posts/venkat-balachandran_opencv-python-computervision-activity-6694674707540705280-X_Tg) of the final output.
 
 
 #### Technologies
